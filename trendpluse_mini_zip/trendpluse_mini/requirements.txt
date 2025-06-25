@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow
-yfinance 
 tensorflow==2.13.0
+yfinance
+
